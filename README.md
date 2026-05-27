@@ -1,6 +1,6 @@
 # ShoreChangeFCM
 
-These scripts and datasets are replication materials for "Mental models of coastal futures inform responsive management", written by SH Swinea, AR Hughes, MJ Osland, CC Shepard, KB Thorne, JB Alemu I, R Bardou, and SB Scyphers.
+These scripts and datasets are replication materials for "Mental models of coastal futures link knowledge to action", written by SH Swinea, AR Hughes, MJ Osland, CC Shepard, KB Thorne, JB Alemu I, R Bardou, and SB Scyphers.
 
 EdgeNodeList.xlsx contains individual-level mental model data. FCM_Concept_PresAbs.xlsx contains presence/absence information for the concepts in individual mental models.
 
